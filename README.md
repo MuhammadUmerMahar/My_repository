@@ -1,3 +1,3 @@
 # My_repository
-This is my new repository
-jeewain toon mujja
+This is my new repository.
+Jeewain toon mujja
